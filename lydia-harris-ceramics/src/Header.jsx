@@ -3,8 +3,10 @@ function Header(){
 
     return(
         <header>
-            <h1>Lydia Harris Ceramics</h1>
             <nav>
+                {/* TODO: Make letters pretty */}
+            <h1>Lydia Harris Ceramics</h1>
+            {/* TODO: Turn the following into Buttons */}
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About</a></li>

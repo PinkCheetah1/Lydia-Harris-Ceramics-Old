@@ -16,10 +16,10 @@ next.
 |Task|Time to complete|Completed?|
 |-------------|----------|-----------|
 |Install/Setup|1h|X|
-|Study basics and Experiment|2h| |
-|Follow a Tutorial|1h| |
-|Create website plan|1h| |
-|Create framework|1h| |
+|Study basics and Experiment|2h|X|
+|Follow a Tutorial|1h|X|
+|Create website plan|1h|X|
+|Create framework|1h|X|
 |Code/Research problems|3h| |
 |Refine|1h| |
 ### Identify Risks
