@@ -1,7 +1,7 @@
 React
 2:00-5:45 - 3.75-ish hours?
 8:30-10:00 - 1.5h - total 5.25h
-11:40-
+2:00-3:00 - 1H - total 6.25
 
 
 Website plan: 
